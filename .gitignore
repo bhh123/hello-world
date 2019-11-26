@@ -2,6 +2,7 @@
 [Dd]ebug/
 x64/
 x86/
+.vs/
 			
 # Files built by Visual Studio
 *.ilk
@@ -11,3 +12,5 @@ x86/
 *.log
 *.exe
 *.dll
+*.db
+
